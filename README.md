@@ -14,5 +14,5 @@ led kırmızıyken sistem kapalı, alarm açık oluyor. kullanıcı kapıya çok
 in this project i simulated a security system for an entrance door.
 the button represents on/of switch, the servo represents dooor, the buzzer represents alarm.
 the alarm system can be activated by pushing button(shift + left click). if a person get closer more than 100 cm, buzzer will make noise when the system off.
-if a person get closer mor than 100 cm. the door will open and buzeer will make ryhtmic sounds depending on distance.
+if system turned on and a person get closer more than 100 cm the door will open and buzeer will make ryhtmic sounds depending on distance.
 ![Daring Fulffy-Rottis](https://user-images.githubusercontent.com/77054769/113489830-208a2e80-94cf-11eb-9088-07882fc545c0.png)
